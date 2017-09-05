@@ -40,7 +40,7 @@ REDPEN_LOG_DIR=$REDPEN_HOME/logs
 REDPEN_LOG_FILENAME=redpen.log
 
 # Language of error messages
-REDPEN_LANGUAGE=en
+REDPEN_LANGUAGE=ja
 
 # RedPen configuration file
 # NOTE: If you want to specify RedPen configuration file, please uncomment out the following line.
