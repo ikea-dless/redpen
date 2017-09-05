@@ -45,7 +45,7 @@ REDPEN_LANGUAGE=ja
 # RedPen configuration file
 # NOTE: If you want to specify RedPen configuration file, please uncomment out the following line.
 # NOTE: the configuration file need to be under REDPEN_HOME.
-# REDPEN_CONF_FILE=conf/redpen-conf-en.xml
+REDPEN_CONF_FILE=/redpen/conf/redpen-conf-ja.xml
 
 #####################################################
 #
